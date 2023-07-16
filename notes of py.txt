@@ -1,0 +1,36 @@
+writing definition of a function
+
+
+when there is three quote that is called as doc string
+
+
+
+global n  # (ye bina parameter wale function k liye hai)
+ise likh kar ham n ki value change kar sakte hai
+refrence:lab3_q4.py
+
+
+function ki definition execution wali cheez nahi hai
+# jab call karte hai to execute hoti hai
+
+
+deliniation in string
+
+tuple doesn't work for subseq as in string
+list is same as tuple
+
+jiske me folder banta hai wo modify kiya ja sakta hai
+but tuple grey area me hai(exception)
+
+'%0.2f'%<expression> iske use ko yad rakkhe
+
+
+preference order in python operation:
+European Union & B B C Equally logical(N A O)
+
+
+operators overload:different context me differently behave kare
+
+
+MVC pattern
+Model view controller pattern is used for defining
